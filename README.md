@@ -1,6 +1,6 @@
 This simulation code package is used to reproduce the results of the following paper [1]:
 
-[1] L. Jin, X. Xu, S. Han, X. Chi, P. Zhang, C. Yuen, "Achievable Rate of Linear Holographic MIMO with Arbitrary Aperture-Length," IEEE Trans. Wireless Commun., early access.  
+[1] L. Jin, X. Xu, S. Han, X. Chi, P. Zhang and C. Yuen, "Achievable Rate of Linear Holographic MIMO With Arbitrary Aperture-Length," in IEEE Transactions on Wireless Communications, vol. 23, no. 11, pp. 16742-16756, Nov. 2024. 
 https://ieeexplore.ieee.org/document/10663346.
 
 *********************************************************************************************************************************
